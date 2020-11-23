@@ -21,6 +21,8 @@
 
   Copy files into folder you want it in (make sure nginx/apache knows where it should be looking), and change links/images .etc.
 
+  By default, the images are called 1.png (for left side), and 2.png (for right side). They are located in /src/img/. If you HAVE to change the filetype this uses, open index.html and go to lines 23 and 30, and change .png to your filetype. you can also change 1 and 2 to edit what name it looks for.
+
   ## Usage
 
   *Instructions and examples for use:*
