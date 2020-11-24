@@ -37,13 +37,13 @@
 
   ## Questions?
 
-  For any questions, please contact me with the information below:
+  For any questions, please contact me with the information below:  
 
-  GitHub: [@SanctumServers](https://api.github.com/users/SanctumServers)
-  Email: owner@sanctum.gq
-  Discord: Milk#4930
-  Sanctum Discord: http://discord.sanctum.gq
+  GitHub: [@SanctumServers](https://api.github.com/users/SanctumServers)  
+  Email: owner@sanctum.gq  
+  Discord: Milk#4930  
+  Sanctum Discord: http://discord.sanctum.gq  
 
 
-  ## Thanks
+  ## Thanks  
   Check out the badges hosted by [shields.io](https://shields.io/).
